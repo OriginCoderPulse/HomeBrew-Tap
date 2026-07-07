@@ -2,7 +2,7 @@
 
 # 🍺 OriginCoderPulse Homebrew Tap
 
-**Install [Nusic](https://github.com/OriginCoderPulse/Music) and other tools via Homebrew**
+**Install [Nusic](https://github.com/OriginCoderPulse/Nusic) and other tools via Homebrew**
 
 [![Tap](https://img.shields.io/badge/tap-OriginCoderPulse%2FHomeBrew--Tap-blue?style=flat-square)](https://github.com/OriginCoderPulse/HomeBrew-Tap)
 [![Formula](https://img.shields.io/badge/nusic-0.1.3-green?style=flat-square)](Formula/nusic.rb)
@@ -19,7 +19,7 @@
 |---------|-------------|---------|
 | 🎵 **nusic** | Cross-platform terminal music player for local files | `0.1.3` |
 
-Full docs: [Nusic README](https://github.com/OriginCoderPulse/Music/blob/main/README.md) · [中文文档](https://github.com/OriginCoderPulse/Music/blob/main/README.zh-CN.md)
+Full docs: [Nusic README](https://github.com/OriginCoderPulse/Nusic/blob/main/README.md) · [中文文档](https://github.com/OriginCoderPulse/Nusic/blob/main/README.zh-CN.md)
 
 ---
 
@@ -66,7 +66,7 @@ brew info nusic
 
 ## 🛠️ Build from HEAD (main branch)
 
-Track the latest unreleased commits from the Music repo:
+Track the latest unreleased commits from the Nusic repo:
 
 ```bash
 brew install --HEAD nusic
