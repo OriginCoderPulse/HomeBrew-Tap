@@ -1,8 +1,8 @@
 class Nusic < Formula
   desc "Cross-platform terminal music player for local files"
   homepage "https://github.com/OriginCoderPulse/Music"
-  url "https://github.com/OriginCoderPulse/Music/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "514b14cc85f8ab753b557eac756a2fe86956649260f96f6778836cd9b0047dc3"
+  url "https://github.com/OriginCoderPulse/Music/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "3f9ffac3d0792a21a87c89a3facf5541917b8f1555bdb35119d99834b34138bd"
   license "MIT"
   head "https://github.com/OriginCoderPulse/Music.git", branch: "main"
 
@@ -15,7 +15,7 @@ class Nusic < Formula
 
   def caveats
     <<~EOS
-      Music files are loaded from ~/.config/nusic
+      Music files are loaded from ~/.music
       Press `o` inside nusic to open the folder in Finder.
     EOS
   end

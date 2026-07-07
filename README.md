@@ -15,4 +15,4 @@ Then run:
 nusic
 ```
 
-Music files go in `~/.config/nusic`.
+Music files go in `~/.music`.
