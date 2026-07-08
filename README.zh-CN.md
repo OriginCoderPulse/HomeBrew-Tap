@@ -5,7 +5,7 @@
 **通过 Homebrew 安装 [Nusic](https://github.com/OriginCoderPulse/Nusic) 等工具**
 
 [![Tap](https://img.shields.io/badge/tap-OriginCoderPulse%2FHomeBrew--Tap-blue?style=flat-square)](https://github.com/OriginCoderPulse/HomeBrew-Tap)
-[![Formula](https://img.shields.io/badge/nusic-0.1.3-green?style=flat-square)](Formula/nusic.rb)
+[![Formula](https://img.shields.io/badge/nusic-0.2.0-green?style=flat-square)](Formula/nusic.rb)
 
 [English](./README.md) · [简体中文](#-安装)
 
@@ -17,7 +17,7 @@
 
 | Formula | 说明 | 版本 |
 |---------|------|------|
-| 🎵 **nusic** | 跨平台终端本地音乐播放器 | `0.1.3` |
+| 🎵 **nusic** | 跨平台终端本地音乐播放器 | `0.2.0` |
 
 完整文档：[Nusic README](https://github.com/OriginCoderPulse/Nusic/blob/main/README.md) · [中文文档](https://github.com/OriginCoderPulse/Nusic/blob/main/README.zh-CN.md)
 
