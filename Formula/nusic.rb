@@ -1,8 +1,8 @@
 class Nusic < Formula
   desc "Cross-platform terminal music player for local files"
   homepage "https://github.com/OriginCoderPulse/Nusic"
-  url "https://github.com/OriginCoderPulse/Nusic/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "a0438b8924948a475db9b1d75e8353dfa8096a648dec4fc2e83c1ac9105151e0"
+  url "https://github.com/OriginCoderPulse/Nusic/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "ffc28dc0d8778cf8572878bbae04a00d539d986358cd9a5cb640e56ac3b7ed4b"
   license "MIT"
   head "https://github.com/OriginCoderPulse/Nusic.git", branch: "main"
 
